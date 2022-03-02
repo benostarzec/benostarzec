@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benostarzec
 - 👀 I’m interested in Language, Linguistics, ICALL, and CL
-- 🌱 I’m currently learning Ukranian, Arabic, & Romanian
+- 🌱 I’m currently learning Ukranian, Arabic, Akan, & Romanian
 - 📫 How to reach me: benostarzec@gmail.com
 
 <!---
