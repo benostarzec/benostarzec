@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benostarzec
 - 👀 I’m interested in Language, Linguistics, ICALL, and CL
-- 🌱 I’m currently learning Vietnamese, Ukranian, and Levantine Arabic
+- 🌱 I’m currently learning Pottawatomi and Nêhiyawêwin
 - 📫 How to reach me: benostarzec@gmail.com
 
 <!---
