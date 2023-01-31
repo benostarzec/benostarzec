@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benostarzec
-- 👀 I’m interested in Language, Linguistics, ICALL, and CL
-- 🌱 I’m currently learning Pottawatomi and Nêhiyawêwin
+- 👀 I’m interested in language, linguistics, CL, CALL, and languge revitalization
+- 🌱 I’m currently learning Spanish and Nêhiyawêwin
 - 📫 How to reach me: benostarzec@gmail.com
 
 <!---
