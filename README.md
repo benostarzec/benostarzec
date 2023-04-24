@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benostarzec
 - 👀 I’m interested in language, linguistics, CL, CALL, and languge revitalization
-- 🌱 I’m currently learning Spanish and Nêhiyawêwin
+- 🌱 I’m currently learning Spanish and Bodéwadmimwen
 - 📫 How to reach me: benostarzec@gmail.com
 
 <!---
